@@ -23,8 +23,8 @@ dashboard:
     - title: description row
       height: 50px
       panels:
-        - title: scale-ci-grafana
-          content: "**This dashboard is provided by scale-ci-grafana and managed via Grafyaml**"
+        - title: grafshift
+          content: "**This dashboard is provided by grafshift and managed via Grafyaml**"
           type: text
 
     - title: QPS
