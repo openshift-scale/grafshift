@@ -165,7 +165,7 @@ dashboard:
           span: 6
           targets:
             - expr: "sum(kubelet_running_container_count)"
-              legendFormat: "Pods"
+              legendFormat: "Containers"
         - title: Container Count by Node
           type: graph
           fill: 0
